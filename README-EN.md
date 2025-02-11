@@ -1,4 +1,6 @@
-<h1 align="center">Hello! I'm Drex <img height="40" src="https://avatars.githubusercontent.com/u/120832806"></h1>
+<h1 align="center">Hello! I'm Drex 
+    <img height="30" src="https://avatars.githubusercontent.com/u/120832806" style="border-radius: 50%;"/>
+</h1>
 
 <p align="center">
     <i align="center">Currently learning, developing projects, and improving my programming skills.</i>
