@@ -7,10 +7,10 @@
 <h3 align="center">Tecnologías que trabajo</h3>
 <p align="center"> 
     <a href="https://html.spec.whatwg.org/" target="_blank" style="text-decoration: none;"> 
-        <img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a>
     <a href="https://www.w3.org/Style/CSS/" target="_blank" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
+        <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" alt="CSS" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a>
     <a href="https://javascript.com/" target="_blank" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
