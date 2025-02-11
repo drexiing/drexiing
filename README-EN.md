@@ -14,6 +14,9 @@
     <a href="https://www.w3.org/Style/CSS/" target="_blank" style="text-decoration: none;"> 
         <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" alt="CSS" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a>
+    <a href="https://www.python.org/" target="_blank" style="text-decoration: none;"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
+    </a>
     <a href="https://javascript.com/" target="_blank" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display: inline-block; vertical-align: middle;"/> 
     </a>
